@@ -1,0 +1,31 @@
+.passportSwapContainer {
+  display: flex;
+}
+
+.container {
+    margin: 30px;
+    padding: 30px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    background: #eee;
+  }
+  
+  .select {
+    width: 300px;
+  }
+  
+  .select option {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .swapInfoCard {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: flex-end;
+   margin-left: 200px;
+  }
