@@ -13,8 +13,11 @@
         "test": "turbo run test"
     },
     "devDependencies": {
+        "@testing-library/jest-dom": "^5.16.5",
+        "@testing-library/react": "^13.4.0",
         "eslint": "^8.4.1",
         "prettier": "^2.5.1",
+        "react-test-renderer": "^18.2.0",
         "turbo": "latest"
     },
     "packageManager": "npm@8.4.1"
