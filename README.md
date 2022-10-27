@@ -5,3 +5,4 @@ Enables people to swap passports with eachother to gain citizenship in another c
 1. Clone the project from GitHub & run `cd passport-swap`
 2. Run `cd client` & `npm start` to open the app in the browser on http://localhost:3000.
 3. Run `cd backend` & `npm start` to run the server
+4. Run `npx turbo test` to run the tests.
